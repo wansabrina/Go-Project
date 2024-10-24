@@ -212,6 +212,9 @@ func ValidateUserInput(firstName string, lastName string, email string, userTick
    import "booking-app/helper"
    ```
 
+## Contoh output
+![alt text](output.png)
+
 ## Cara Menjalankan
 
 1. Pastikan sudah menginstal Go (versi 1.16 atau lebih baru).
