@@ -13,7 +13,8 @@
     - [Fungsi Utama (main)](#fungsi-utama-main)
     - [Fungsi Pendukung](#fungsi-pendukung)
 3. [Cara Memisahkan Package helper](#cara-memisahkan-package-helper)
-4. [Cara Menjalankan](#cara-menjalankan)
+4. [Contoh Output](#contoh-output)
+5. [Cara Menjalankan](#cara-menjalankan)
 
 ---
 
@@ -212,7 +213,7 @@ func ValidateUserInput(firstName string, lastName string, email string, userTick
    import "booking-app/helper"
    ```
 
-## Contoh output
+## Contoh Output
 ![alt text](output.png)
 
 ## Cara Menjalankan
